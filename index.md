@@ -30,6 +30,7 @@ August 2018 - June 2021
   
 [Source](https://github.com/aresortiz/Mila-backend.git)
 
+
 **Sabor DIF - Mobile App**
 > Mobile app to register people attending community dining rooms
 
@@ -38,6 +39,7 @@ August 2018 - June 2021
   
 [Source](https://github.com/aresortiz/SaborDIF.git)
 
+
 **Knight's Dance - Strategy game**
 > Implementation of a player with an"intelligent" strategy for the Knight's Dance game
 
@@ -45,6 +47,7 @@ August 2018 - June 2021
 * Established the general functionality of the "threatenedPositions" and "avoidLosing" functions
 
 [Source](https://github.com/aresortiz/CaballosBailarines.git)
+
 
 **Multiagent system - Transit simulation**
 > Transit simulator using a multiagent system
