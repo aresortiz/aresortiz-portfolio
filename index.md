@@ -4,7 +4,7 @@ title: Ares Ortiz Botello
 
 ## Profile
 
-As a STEM student, I'm looking for experiences that will help amplify my academic and professional growth. My passion for self-directed learning fuels my openness to work and acquire knowledge on diverse fields such as IT security or support, web design, networks, computer forensics, artificial intelligence, databases, and more.
+As a STEM student, I'm looking for experiences that will help amplify my academic and professional growth. My passion for self-directed learning fuels my openness to work and acquire knowledge on diverse fields such as cybersecurity, computer forensics, web design, networks, artificial intelligence, and more.
 
 * * *
 
@@ -30,7 +30,6 @@ August 2018 - June 2021
   
 [Source](https://github.com/aresortiz/Mila-backend.git)
 
-
 **Sabor DIF - Mobile App**
 > Mobile app to register people attending community dining rooms
 
@@ -38,7 +37,6 @@ August 2018 - June 2021
 * Programmed in Kotlin the functionality of each screen, as well as the navigation between them
   
 [Source](https://github.com/aresortiz/SaborDIF.git)
-
 
 **Knight's Dance - Strategy game**
 > Implementation of a player with an"intelligent" strategy for the Knight's Dance game
@@ -48,12 +46,11 @@ August 2018 - June 2021
 
 [Source](https://github.com/aresortiz/CaballosBailarines.git)
 
-
 **Multiagent system - Transit simulation**
 > Transit simulator using a multiagent system
 
-* Designed assets in Unity for the buildings and structures used in the modeling of our city.
-* In charge of the whole documentation of the project.
+* Designed assets in Unity for the buildings and structures used in the modeling of our city
+* In charge of the whole documentation of the project
   
 [Source](https://github.com/aresortiz/trans-project.git)
 
@@ -68,7 +65,7 @@ May - August 2023
 **Formula Student**
 
 September 2023 - May 2024
-* Formula Student is automobile competition between students from universities around the world, promoting excellence in engineering through the design of a single-seat vehicle. I was part of TM Racing Team, where I worked in the Vehicle Dynamics area building TCL scripts in order to automate lap time simulations and test runs in the IPG CarMaker software.
+* Formula Student is automobile competition between students from universities around the world, promoting excellence in engineering through the design of a single-seat vehicle. There, I was part of TM Racing Team, where I worked for the Vehicle Dynamics area, building TCL scripts in order to automate lap time simulations and test runs in the IPG CarMaker software.
 
 * * *
 
@@ -85,7 +82,7 @@ September 2023 - May 2024
 
 * * *
 
-#### Skills
+## Skills
 
 *   Critical thinking
 *   Adaptability
