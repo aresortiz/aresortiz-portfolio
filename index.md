@@ -22,19 +22,38 @@ August 2018 - June 2021
 * * *
 
 ## Projects
-**2D Video Game "Mila" - Crack the Code**
+**Crack the Code - 2D Video Game "Mila"**
 > Video game to teach young children how to code
+
 * Designed and developed some of the menus and levels of the game using Unity and C#
 * Established the connection between the game, the RESTful API on JavaScript and the SQL database hosted in AWS
-* Assisted on the supervision of the project and its troubleshooting
+  
 [Source](https://github.com/aresortiz/Mila-backend.git)
 
-**Transit simulator**
-> Transit simulation using a multiagent system 
-* Designed class and organizational diagrams for each agent defined in our project
-* Designed assets in Unity for the buildings and structures used in the modeling of our city
+**Sabor DIF - Mobile App**
+> Mobile app to register people attending community dining rooms
+
+* Designed the user interface for the app using XML
+* Programmed in Kotlin the functionality of each screen, as well as the navigation between them
+  
+[Source](https://github.com/aresortiz/SaborDIF.git)
+
+**Knight's Dance - Strategy game**
+> Implementation of a player with an"intelligent" strategy for the Knight's Dance game
+
+* Defined the minmax function in Python and implemented alpha-beta pruning to optimize the algorithm 
+* Established the general functionality of the "threatenedPositions" and "avoidLosing" functions
+
+[Source](https://github.com/aresortiz/CaballosBailarines.git)
+
+**Multiagent system - Transit simulation**
+> Transit simulator using a multiagent system
+
+* Designed assets in Unity for the buildings and structures used in the modeling of our city.
 * In charge of the whole documentation of the project.
+  
 [Source](https://github.com/aresortiz/trans-project.git)
+
 * * *
 
 ## Experience
