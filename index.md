@@ -23,10 +23,18 @@ August 2018 - June 2021
 
 ## Projects
 **2D Video Game "Mila" - Crack the Code**
+> Video game to teach young children how to code
 * Designed and developed some of the menus and levels of the game using Unity and C#
 * Established the connection between the game, the RESTful API on JavaScript and the SQL database hosted in AWS
 * Assisted on the supervision of the project and its troubleshooting
+[Source](https://github.com/aresortiz/Mila-backend.git)
 
+**Transit simulator**
+> Transit simulation using a multiagent system 
+* Designed class and organizational diagrams for each agent defined in our project
+* Designed assets in Unity for the buildings and structures used in the modeling of our city
+* In charge of the whole documentation of the project.
+[Source](https://github.com/aresortiz/trans-project.git)
 * * *
 
 ## Experience
@@ -63,5 +71,3 @@ September 2023 - May 2024
 *   Computer and technology
 *   Problem solving
 *   Teamwork
-
-* * *
