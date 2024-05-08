@@ -65,7 +65,7 @@ May - August 2023
 **Formula Student**
 
 September 2023 - May 2024
-* Formula Student is automobile competition between students from universities around the world, promoting excellence in engineering through the design of a single-seat vehicle. There, I was part of TM Racing Team, where I worked for the Vehicle Dynamics area, building TCL scripts in order to automate lap time simulations and test runs in the IPG CarMaker software.
+* Formula Student is an automobile competition between students from universities around the world, promoting excellence in engineering through the design of a single-seat vehicle. There, I was part of TM Racing Team, where I worked for the Vehicle Dynamics area, building TCL scripts in order to automate lap time simulations and test runs in the IPG CarMaker software.
 
 * * *
 
@@ -74,7 +74,6 @@ September 2023 - May 2024
 > Spanish - Native
 >
 > English - Proficient
-> PEIC - C1 (2022)
 >
 > French - Intermediate
 >
