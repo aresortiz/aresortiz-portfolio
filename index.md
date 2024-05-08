@@ -39,7 +39,7 @@ August 2018 - June 2021
 [Source](https://github.com/aresortiz/SaborDIF.git)
 
 **Knight's Dance - Strategy game**
-> Implementation of a player with an"intelligent" strategy for the Knight's Dance game
+> Implementation of a player with an intelligent strategy for the Knight's Dance game
 
 * Defined the minmax function in Python and implemented alpha-beta pruning to optimize the algorithm 
 * Established the general functionality of the "threatenedPositions" and "avoidLosing" functions
