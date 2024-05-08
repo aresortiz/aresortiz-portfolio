@@ -73,7 +73,7 @@ September 2023 - May 2024
 
 > Spanish - Native
 >
-> English - Proficient
+> English - Proficient (PEIC - C1, 2022)
 >
 > French - Intermediate
 >
