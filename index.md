@@ -33,8 +33,8 @@ August 2018 - June 2021
 **Sabor DIF - Mobile App**
 > Mobile app to register people attending community dining rooms
 
-* Designed the user interface for the app using XML
-* Programmed in Kotlin the functionality of each screen, as well as the navigation between them
+* Designed the app's user interface using XML
+* Programmed the functionality of each screen in Kotlin, as well as establishing the navigation between them
   
 [Source](https://github.com/aresortiz/SaborDIF.git)
 
@@ -42,7 +42,7 @@ August 2018 - June 2021
 > Implementation of a player with an intelligent strategy for the Knight's Dance game
 
 * Defined the minmax function in Python and implemented alpha-beta pruning to optimize the algorithm 
-* Established the general functionality of the "threatenedPositions" and "avoidLosing" functions
+* Programmed the general structure and functionality of the "threatenedPositions" and "avoidLosing" functions
 
 [Source](https://github.com/aresortiz/CaballosBailarines.git)
 
